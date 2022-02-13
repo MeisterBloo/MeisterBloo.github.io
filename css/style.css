@@ -3,10 +3,11 @@ body {
 }
 
 .bgimg {
-    height: 100vh;
+    height: 100%;
+    width: 100%;
 }
 
 .mysteriousletter {
-    background-image: url(./assets/img/parchment.jpg);
+    background-image: url(../assets/img/parchment.jpg);
     font-family: 'Syne Tactile', cursive;
 }
