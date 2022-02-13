@@ -1,0 +1,8 @@
+body {
+    background-color: #050602;
+}
+
+.mysteriousletter {
+    background-image: url(./assets/img/parchment.jpg);
+    font-family: 'Syne Tactile', cursive;
+}
