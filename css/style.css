@@ -2,6 +2,10 @@ body {
     background-color: #050602;
 }
 
+.bgimg {
+    height: 100vh;
+}
+
 .mysteriousletter {
     background-image: url(../assets/img/parchment.jpg);
     font-family: 'Syne Tactile', cursive;
