@@ -6,6 +6,12 @@ body {
     height: 100vh;
 }
 
+@media screen and (max-width: 480px) {
+    body {
+        height: 1024px;
+    }
+}
+
 .mysteriousletter {
     background-image: url(../assets/img/parchment.jpg);
     font-family: 'Syne Tactile', cursive;
