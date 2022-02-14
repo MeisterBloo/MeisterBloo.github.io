@@ -1,16 +1,11 @@
 body {
     background-color: #050602;
+    height: 1024px;
 }
 
 .bgimg {
-    height: 100vh;
 }
 
-@media screen and (max-width: 480px) {
-    body {
-        height: 1024px;
-    }
-}
 
 .mysteriousletter {
     background-image: url(../assets/img/parchment.jpg);
@@ -18,7 +13,7 @@ body {
 }
 
 .doorbutton {
-    bottom: -275px;
+    top: 675px;
     left: 355px;
     width: 80px;
     height: 205px;
