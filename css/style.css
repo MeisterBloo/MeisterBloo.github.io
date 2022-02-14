@@ -9,6 +9,12 @@ body {
     font-family: 'Quintessential', cursive;
 }
 
+.audiocontrols {
+    opacity: 0.1;
+    width: 100px;
+    
+}
+
 .doorbutton {
     top: 675px;
     left: 355px;
