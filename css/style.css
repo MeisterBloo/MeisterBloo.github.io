@@ -9,6 +9,8 @@ body {
 
 .mysteriousletter {
     background-image: url(../assets/img/littlelongparchment.jpg);
+    width: 320px;
+    height: 420px;
     font-family: 'Quintessential', cursive;
 }
 
@@ -28,4 +30,8 @@ body {
 .doorbutton:hover {
     background-color: #050602;
     opacity: 0.7;
+}
+
+#homepage {
+    background-image: url(../assets/img/main\ floor.jpg);
 }
