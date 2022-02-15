@@ -3,6 +3,9 @@ body {
     max-height: 1024px;
 }
 
+#index {
+    background-image: url(../assets/img/haunted\ house.jpg);
+}
 
 .mysteriousletter {
     background-image: url(../assets/img/littlelongparchment.jpg);
