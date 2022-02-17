@@ -33,5 +33,12 @@ body {
 }
 
 #homepage {
-    background-image: url(../assets/img/main\ floor.jpg);
+    background-image: url(../assets/img/main\ floor.jpg); 
+    height: 100vh;
+}
+
+#homepagecarousel {
+    align-content: center;
+    max-width: 50%;
+    margin-top: 10%;
 }
