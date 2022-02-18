@@ -55,3 +55,8 @@ body {
     1px 1px 0 #000;
 }
 
+#cemetery {
+    background-image: url(../assets/img/graveyard.jpg);
+    max-height: 100vh;
+}
+
