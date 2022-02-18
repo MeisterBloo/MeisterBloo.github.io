@@ -22,7 +22,7 @@ body {
 
 .doorbutton {
     top: 675px;
-    left: 11%;
+    left: 355px;
     width: 80px;
     height: 205px;
 }
@@ -80,7 +80,7 @@ body {
     text-align: center;
 }
 
-.btn {
+.cemeterybtn {
     margin-left: 17%;
 }
 
