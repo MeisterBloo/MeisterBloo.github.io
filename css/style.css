@@ -34,11 +34,24 @@ body {
 
 #homepage {
     background-image: url(../assets/img/main\ floor.jpg); 
-    height: 100vh;
+    height: 100%;
 }
 
 #homepagecarousel {
-    align-content: center;
+    
     max-width: 50%;
-    margin-top: 10%;
+    margin-top: 2%;
+    position: fixed;
 }
+
+
+.text-warning {
+    font-family: 'Quintessential', cursive;
+    font-size: ;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
